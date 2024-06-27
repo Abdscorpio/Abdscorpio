@@ -9,3 +9,7 @@ Azure Devops. I game modding in spare time. Always eager to learn and take on ne
 - [Twitter](https://x.com/DirarAbdullah)
 - [Website](https://abdullahdiamond202.wixsite.com/my-cv)
 - [LinkedIn](https://www.linkedin.com/in/abdullah-otoum-0a22121b5/)
+
+
+## Visitor Count
+![Visitor Count](https://img.shields.io/badge/dynamic/json?color=green&label=Profile%20views&query=value&url=https://api.countapi.xyz/hit/abdullahdiamond/abdullahdiamond)
