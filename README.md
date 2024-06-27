@@ -10,4 +10,4 @@ I'm a computer engineer who is passionate about coding and making tweaks. Some t
 
 
 ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{Abdscorpio}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{AbdullahScript}/count.svg)
