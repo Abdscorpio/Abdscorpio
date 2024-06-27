@@ -1,3 +1,5 @@
+# Hey there 👋
+
 ![Banner Image](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
 I'm a computer engineer who is passionate about coding and making tweaks. Some technologies I enjoy working with include: Java, C++, C, and Assembly. Experienced in Selenium WebDriver automation. I was recently selected to work in manual testing alongside
