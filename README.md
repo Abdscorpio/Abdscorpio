@@ -12,4 +12,4 @@ Azure Devops. I game modding in spare time. Always eager to learn and take on ne
 
 
 ## Visitor Count
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=green&label=Profile%20views&query=value&url=https://api.countapi.xyz/hit/abdullahdiamond/abdullahdiamond)
+![Visitor Count](https://profile-counter.glitch.me/{Abdscorpio}/count.svg)
